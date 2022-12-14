@@ -27,3 +27,11 @@ To create a boat in Maya and make it floating in unreal engine.
 10. Drag and drop the created blue print on to the landscape water body.
 
 11. Press play button now the boat starts floating the waterbody.
+
+## Output
+
+youtube link:- https://youtu.be/lL6vBS1OlH8
+
+## Result
+
+Therefore a boat is created in Maya and made it to float in the Unreal Engine.
